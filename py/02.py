@@ -1,4 +1,4 @@
-importre
+import re
 
 file = open("../raw/02.txt")
 
